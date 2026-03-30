@@ -6,7 +6,7 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 ## Contact Information
 - Email : 222868708@mycput.ac.za
 - Phone : 063 312 4362
-- Location : L53 N08 New Flats
+- Location : L53 No8 New Flats
 - GitHub : https://github.com/Sipho222
 
 ---
@@ -17,7 +17,7 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 ----
 
 ## Education 
-**Islimela Comprehensive School
+**Isilimela Comprehensive School
 - 2021, Grade 12
 
 **CAPE PENINSULA UNIVERSITY OF TECHNOLOGY
@@ -26,7 +26,7 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 
 ---
 
-## PROGRAMMING LANGUAGEES
+## PROGRAMMING LANGUAGES
 - Javacript, Java
 - Python
 - HTML
@@ -49,15 +49,15 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 - Role: Project Co-ordinator and Database Developer
 
 ### Student Enrollment System
-- This project is Client-server Student Enrollemnt System that uses a JavaSwing GUI to manage student records course records and registrations through a networked connection. It uses a centralized Derby Database and Data Access Objects(DAO's) to allow adminstrators to perfom CRUID operations while students can log in to view and enroll for their specific courses 
-
-### Team Collaboration & Project Co-ordination
-- Assisted peers in understanding projects, ensuring deadlines were met and effective team collaboration
-- GitHub for version control and teamwork
+- This project is a Client-server Student Enrollemnt System that uses a JavaSwing GUI to manage student records course records and registrations through a networked connection. It uses a centralized Derby Database and Data Access Objects(DAO's) to allow adminstrators to perfom CRUID operations while students can log in to view and enroll for their specific courses 
 
 ### Skillswap app
 - Designed a platform for sharing and learning skills
 - Focused on UI/UX Design and problem solving
+  
+### Team Collaboration & Project Co-ordination
+- Assisted peers in understanding projects, ensuring deadlines were met and effective team collaboration
+- GitHub for version control and teamwork
 
 ---
 
@@ -68,12 +68,12 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 - Through these experiences, I learned how to apply theoretical knowledge from my studies to real-world projects
 - I improved my skills in communication, teamwork, problem solving.
 
-- I also faced challenges such as understanding technical concepts and collaborating in a group, but I overcame them by doing reasearch and working closely with my groupmates. 
+- I also faced challenges such as understanding technical concepts and collaborating in a group, but I overcame them by doing research and working closely with my peers. 
 
 - These projects helped me become more  confident in my abilities, and improved my self awareness
 - I learned how to manage my time, take responsibility and adapt to different roles within a team.
 
-- Overall, these experiences have taught me how to learn independently and prepared me for real-world software-developement and prepared for my future career as an AI and Data Engineer.
+- Overall, these experiences have taught me how to learn independently and prepared me for real-world software-developement and for my future career as an AI and Data Engineer.
 
 ## Goals
 
@@ -81,8 +81,8 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 - To develop expertise in data analysis and machine learning
 - To contribute to innovative, data-driven solutions
 
-## Mock Interview
-https://drive.google.com/file/d/1UhH9Qj0czclNezs9blrx56QmFv42sfSK/view?usp=sharing
+## Mock Interview Video
+Link:[Watch my mock interview](https://drive.google.com/file/d/1UhH9Qj0czclNezs9blrx56QmFv42sfSK/view?usp=sharing)
 
 
 
