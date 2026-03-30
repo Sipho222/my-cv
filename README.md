@@ -61,7 +61,7 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 
 ---
 
-## Reflective Pracise
+## Reflective Practise
 
 - During my projects, I contributed in different roles depending on the project requirements, in the Smart Cafeteria System project I took the role of being a project co-ordinator and database developer. I was responsible for organizing tasks, working  with team members and contributing to system design.
 
