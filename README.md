@@ -82,7 +82,7 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 - To contribute to innovative, data-driven solutions
 
 ## Mock Interview
-
+https://drive.google.com/file/d/1UhH9Qj0czclNezs9blrx56QmFv42sfSK/view?usp=sharing
 
 
 
