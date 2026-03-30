@@ -47,6 +47,10 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 ### Smart Cafeteria Ordering System
 - Java based application that allows students/users to register and log in to a campus cafeteria system which provides a menu where they can view available food items, add food items to a cart, get schedule pickups and get automatic discounts.
 - Role: Project Co-ordinator and Database Developer
+
+### Student Enrollment System
+- This project is a Client-server Student Enrollemnt System that uses a JavaSwing GUI to manage student records course records and registrations through a networked connection. It uses a centralized Derby Database and Data Access Objects(DAO's) to allow adminstrators to perfom CRUID operations while students can log in to view and enroll for their specific courses 
+
   
 ### Team Collaboration & Project Co-ordination
 - Assisted peers in understanding projects, ensuring deadlines were met and effective team collaboration
