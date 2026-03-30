@@ -11,18 +11,18 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 
 ---
 
-## Professional Summary 
+## Career Objective
 - Final-year Diploma in ICT(Application Development) student with a strong foundation in software development, seeking for an entry-level job in IT where I can apply my programming, database management and problem solving skills to develop efficient and user friendly systems. Motivated and eager to gain industry experience while applying my skills to contribute to organizational goals.
 
 ----
 
 ## Education 
 **Isilimela Comprehensive School
-- 2021, Grade 12
+- 2021(Completed)
 
 **CAPE PENINSULA UNIVERSITY OF TECHNOLOGY
 - Diploma in ICT
-- 2024-2026
+- 2024-2026(Final Year)
 
 ---
 
@@ -47,13 +47,6 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 ### Smart Cafeteria Ordering System
 - Java based application that allows students/users to register and log in to a campus cafeteria system which provides a menu where they can view available food items, add food items to a cart, get schedule pickups and get automatic discounts.
 - Role: Project Co-ordinator and Database Developer
-
-### Student Enrollment System
-- This project is a Client-server Student Enrollemnt System that uses a JavaSwing GUI to manage student records course records and registrations through a networked connection. It uses a centralized Derby Database and Data Access Objects(DAO's) to allow adminstrators to perfom CRUID operations while students can log in to view and enroll for their specific courses 
-
-### Skillswap app
-- Designed a platform for sharing and learning skills
-- Focused on UI/UX Design and problem solving
   
 ### Team Collaboration & Project Co-ordination
 - Assisted peers in understanding projects, ensuring deadlines were met and effective team collaboration
@@ -61,6 +54,13 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 
 ---
 
+## Referrences
+
+- S.Tswane
+- Subject Co-ordinator
+- tswanes@cput.ac.za
+- 021 460 3010
+  
 ## Reflective Practise
 
 - During my projects, I contributed in different roles depending on the project requirements, in the Smart Cafeteria System project I took the role of being a project co-ordinator and database developer. I was responsible for organizing tasks, working  with team members and contributing to system design.
@@ -77,9 +77,10 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 
 ## Goals
 
-- To build a career as an AI and Data Engineer
-- To develop expertise in data analysis and machine learning
-- To contribute to innovative, data-driven solutions
+- To build a career as an AI and Data Engineer  
+- To develop expertise in data analysis and machine learning  
+- To contribute to innovative, data-driven solutions  
+
 
 ## Mock Interview Video
 Link:[Watch my mock interview](https://drive.google.com/file/d/1UhH9Qj0czclNezs9blrx56QmFv42sfSK/view?usp=sharing)
