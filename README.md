@@ -87,13 +87,7 @@ My CV built with Markdown and hosted on GitHub Pages, highlighting my skills
 
 
 ## Mock Interview Video
-Link:[Watch my mock interview](<iframe 
-    src="https://drive.google.com/file/d/1b2c3d4e5f6g/preview" 
-    width="640" 
-    height="360" 
-    allow="autoplay" 
-    allowfullscreen>
-</iframe>)
+Link:[Watch my mock interview](https://drive.google.com/file/d/1UhH9Qj0czclNezs9blrx56QmFv42sfSK/view?usp=sharing)
 
 
 
